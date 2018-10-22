@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+body{
+    font-family: "Bebas Neue W01 Regular";
+    
+}
+.logo{
+    width: 135px;
+    height: 50px;
+   
+}
+    /* estilos del header*/
+
+.header .contenedor{
+  display: flex;
+  justify-content:flex-start;
+  background-attachment: scroll;
+  position: fixed;
+  z-index: 1000;
+  background-color: white;
+  width: 100%;
+  height: 60px;
+   
+    
+}
+
+.logo{
+    width: 56px;
+    height: 49px;
+    
+    
+}
+
+.logo,.icon-menu{
+    margin: :5px;
+    color: skyblue;
+}
+    
+.icon-menu{
+    display: block;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;        
+    text-align: center;
+    cursor: pointer;     
+    line-height: 45px;
+    border-radius: 5px;
+        
+}
+    
+.nav{
+    position: absolute;
+    width:100%;
+    z-index: 100;
+    transition: all 0.5s;
+    left: -100%;
+    width: 250px;
+    height: 1000px;
+    background: white;
+     z-index: 300;
+    
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+.menu_link{
+    cursor: pointer;
+    display: block;
+    padding: 20px;
+    color: #454545;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    background: white;
+    text-decoration:none; 
+
+
+   
+}
+.menu_linkM{
+    cursor: pointer;
+    display: block;
+    padding: 20px;
+    color: #454545;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    background: white;
+
+
+   
+}
+
+.menu_link:hover{
+    background:#454545;
+    color: white;
+    
+}
+.bar1, .bar2, .bar3 {
+    width: 18px;
+    height: 2px;
+    background-color: Gray;
+    margin: 3px 0;
+    transition: 0.4s;
+   
+}
+
+
+
+.container {
+    margin: 10px;
+
+    display: inline-block;
+    cursor: pointer;
+    width:  40px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 45px;
+    border-radius: 5px;
+    margin-top: 20px;
+   
+    z-index: 600
+    
+    
+}
+
+/* Rotate first bar */
+.change .bar1 {
+    -webkit-transform: rotate(270deg) translate(0, 0) ;
+    transform: rotate( 315deg) translate(-10px,10px ) ;
+}
+
+/* Fade out the second bar */
+.change .bar2 {
+    opacity: 0;
+}
+
+/* Rotate last bar */
+.change .bar3 {
+    -webkit-transform: rotate(225deg) translate(0, 0) ;
+    transform: rotate(225deg) translate(10px,1px ) ;
+}
+.muestrate .nav{
+    left: 0%;
+    
+}
+
+
+
+
+/*-- banner*/
+.banner img{
+    width 100%;
+    
+    
+}
+.banner{
+    position: relative;
+    text-align: center;
+   
+}
+.banner:before{
+
+}
+
+.fondoPirini:before{
+        content: "";
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    opacity: 0.7;
+    z-index: 100;
+}
+.fondoPirini{
+    position: relative ;
+    width: 100%; 
+    
+   
+ 
+}
+
+.banner__description{
+    
+    color: white;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    transform: translateX(-50%)translateY(-50%);
+    z-index: 200;
+}
+.banner__description h1{
+    font-size: 9vw;
+    color: white;
+    
+    
+}
+
+.contenedor p{
+    padding: 30px;
+    font-size: 5vw;
+    font-size: display:none;
+    left: 20%;
+    bottom: 50%;
+    
+}
+
+.nav2{
+    position: absolute;
+    width:100%;
+    z-index: 100;
+    transition: all 0.5s;
+    left: -240%;
+    width: 250px;
+    height: 1000px;
+    background: white;
+     z-index: 300;
+    
+}
+.link{
+    text-decoration:none; 
+}

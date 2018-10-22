@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style.css')}}">
+     <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='demo.css')}}">
+    <script type="text/javascript" src="{{url_for('static',filename='script.js')}}"></script>
+    <script src=" {{url_for('static',filename='main.js')}}"></script>
+    <title> home</title>
+  </head>
+
+  <body >
+
+
+     <header class="header">
+      <div class="contenedor" >
+
+           <div class="container" id="btn-menu" onclick="myFunction(this)" style="z-index: 1000" >
+               <div class="bar1"></div>
+               <div class="bar2"></div>
+               <div class="bar3"></div>
+            </div>
+           <img src="{{url_for('static',filename='logo.PNG')}}" alt="" class="logo" style="align-self: center ">
+
+           <h1  style="margin-top: 10px; align-self: center; color: #454545; font-family:Bebas Neue W01 Regular;" >nawé</h1>
+
+          <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false"></div>
+         <div class="baba">
+             <nav class="nav" id="nav">
+          <ul class="menu">
+              <li class="menu__item" style="margin-left: 30px"><a class="menu_linkM">Menú</a></li>
+              <li class="menu__item"><a href ="home"class="menu_link">Nawe</a></li>
+              <li class="menu__item"><a href ="educacion"class="menu_link">Educación</a></li>
+              <li class="menu__item"><a href ="mapa" class="menu_link">Mapa</a></li>
+              </ul>
+          </nav>
+
+          </div>
+          </div></header>
+       
+      <div class= "banner">
+          <div class="fondoPirini"style="">
+          <img src="{{url_for('static',filename='banner.jpg')}}" alt="" class="fondoPirini" id="pirini">
+          </div>
+         <div class="contenedor">
+          <div class="banner__description">
+              <h1 class="contenedor">Seguridad, al alcance de tu mano</h1>
+          </div>
+       </div>
+          <div class="contenedor">
+              <p style="color: #454545">Nawé nace como solución para la violencia hacia las mujeres, creando alertas mediante un brazalete conectado a una aplicación móvil. Educa e informa sobre sus alternativas en estos casos. Graba video y audio en vivo para usar como prueba judicial. Alerta a usuarios cercanos y contactos de emergencia. </p>
+          </div>
+      </div>
+
+  <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false"></div>
+
+  </body>
+<script src=" {{url_for('static',filename='script.js')}}"></script>
+<script src=" {{url_for('static',filename='main.js')}}"></script>
+
+  </html>

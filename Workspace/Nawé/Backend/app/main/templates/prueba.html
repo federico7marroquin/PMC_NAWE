@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style.css')}}">
+     <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='demo.css')}}">
+    <script type="text/javascript" src="{{url_for('static',filename='script.js')}}"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title> Home</title>
+  </head>
+
+  <body >
+     <header class="header">
+      <div class="contenedor" >
+          
+           <div class="container" id="btn-menu" onclick="myFunction(this)" style="z-index: 1000" >
+               <div class="bar1"></div>
+               <div class="bar2"></div>
+               <div class="bar3"></div>
+            </div>
+          <img src="{{url_for('static',filename='logo.PNG')}}" alt="" class="logo" style="align-self: center ">
+              
+           <h1 style="margin-top: 10px; align-self: center; color: #454545; font-family:Bebas Neue W01 Regular;"  >nawé</h1>
+         
+             <nav class="nav" id="nav">
+          <ul class="menu">
+              <li class="menu__item" style="margin-left: 30px"><a class="menu_linkM">Menú</a></li>
+              <li class="menu__item"><a href="home" class="menu_link">Nawe</a></li>
+              <li class="menu__item"><a href ="educacion"class="menu_link">Educación</a></li>
+
+               <li class="menu__item"><a href ="mapa"class="menu_link">mapa</a></li>
+              </ul>
+          </nav>
+             
+          
+          </div>
+      </header>
+ 
+      <!-- First Photo Grid-->
+  <div class="w3-row-padding">
+      <div style="align-content: center">
+ <h1 style="margin-top: 60px; left: 50% "><b>Fundaciónes</b></h1>
+          </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+      
+        <a   title="casa CasaMujeres" href="http://www.casmujer.com/https://www.rednacionaldemujeres.org/index.php/nosotras/que-hacemos"><img src="https://innpactia.com/wp-content/uploads/2016/06/casa-de-la-mujer-300_big.png" alt="CasaMujeres" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+      <br>
+        <p>
+            <b><a class= "link" href="http://www.casmujer.com/https://www.rednacionaldemujeres.org/index.php/nosotras/que-hacemos">Casa de la Mujer</a></b></p>
+        <p>“Fortalecimiento para el agenciamiento y la actuación de las mujeres en la construcción de la paz con justicia social y la democracia radical. 
+Asesorías y acompañamiento psicosocial, legal y de fortalecimiento organizativo a grupos y organizaciones de mujeres. 
+”</p>
+        <p>
+          Teléfonos
+(57 1) 221 8785
+ Fax (57 1) 222 917
+        </p>
+      </div>
+    </div>
+  <br>
+ 
+  
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.rednacionaldemujeres.org"><img src="{{url_for('static',filename='rosado.jpg')}}" alt="RedNacional" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+  <br>
+  <br>
+        <p><b><a a class= "link" href="https://www.rednacionaldemujeres.org">Red Nacional de Mujeres</a></b></p>
+        <p>Su trabajo se centra en tres ejes, siempre teniendo en cuenta “la inclusión de perspectiva de género, empoderamiento, compromiso y transformación”: 
+          <p>1.	participación política y construcción de ciudadanía de las mujeres</p>
+      <p>2.	eliminación de las diferentes violencias ejercidas contra las mujeres</p>
+      <p>3.	participación de las mujeres en procesos y construcción de paz</p>
+.<p>
+      Teléfono
+4651212
+
+      </p>
+      </div>
+    </div>
+    <div class="w3-third w3-container">
+  <br>
+      <a href="http://www.sdmujer.gov.co/"><img src="{{url_for('static',filename='bogotá.jpeg')}}" alt="Secretaría Distrital" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+<br>
+<br>
+         <p><b><a a class= "link" href="http://www.sdmujer.gov.co/">Secretaría Distrital para la Mujer</a></b></p>
+        <p>“Brinda el servicio personalizado en los puntos de contacto de la Entidad (Canal presencial, telefónico y virtual), para satisfacer sus necesidades, requerimientos e inquietudes que manifiesten las usuarias y usuarios de la Entidad.”
+Servicios: </p>
+          <p>1.	“Asesorías socio jurídicas, orientación y acompañamiento a mujeres víctimas de violencia ante instancias judiciales.”</p>
+<p>2.	“Casas de igualdad de oportunidades en las 20 localidades de la ciudad”. </p>
+
+      </div>
+    </div>
+  </div>
+  
+       <!-- Second Photo Grid-->
+  <div class="w3-row-padding">
+    <h1><b>Líneas de Emergencia</b></h1>
+    <div class="w3-third w3-container w3-margin-bottom">
+      
+      <a href="http://www.sdmujer.gov.co/inicio/541-mujeres-que-escuchan-mujeres-a-traves-de-la-linea-purpura-distrital"><img src="{{url_for('static',filename='morado.png')}}" alt="LineaPurpura" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b><a class="link"href="http://www.sdmujer.gov.co/inicio/541-mujeres-que-escuchan-mujeres-a-traves-de-la-linea-purpura-distrital">Línea Púrpura Distrital “Mujeres que escuchan mujeres”</a></b></p>
+        <p> Marca desde tu teléfono fijo o móvil 018000-1121137  </p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://scj.gov.co/landing/linea-123/"><img src="http://www.saludcapital.gov.co/PublishingImages/Lineas_Atencion/logo_123.png" alt="Norway" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+      <br>
+<br>
+        <p><b><a class="link" href="https://scj.gov.co/landing/linea-123/">123-Emergencias</a></b></p>
+        <p>Marca desde tu teléfono fijo o móvil 123</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container">
+      <a href="https://www.policia.gov.co/noticia/l%C3%ADnea-155-orientaci%C3%B3n-mujeres-v%C3%ADctimas"><img src="http://sofia.sdmujer.gov.co/Images/boton-informate_05.png" alt="Norway" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b><a class="link" href="https://www.policia.gov.co/noticia/l%C3%ADnea-155-orientaci%C3%B3n-mujeres-v%C3%ADctimas">Línea nacional de orientación a mujeres víctimas de violencia </a></b></p>
+        <p>Marca desde tu teléfono fijo o móvil 155</p>
+      </div>
+    </div>
+  </div>
+      <!-- Images of Me -->
+  <div class="w3-row-padding w3-padding-16" id="about">
+  <h1><b>Defensa Personal </b></h1>
+    <p>Te invitamos a que mires estos videos con el fin de brindarte más ayuda en caso de emergencia. </p>
+      
+      
+<iframe width="853" height="480" src="https://www.youtube.com/embed/liTYJjLl6k8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    <div class="w3-col m6">
+ <iframe width="853" height="480" src="https://www.youtube.com/embed/vNkbRA4PvZY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+      
+    </div>
+  </div>
+      
+  </body>
+    <script src=" {{url_for('static',filename='script.js')}}"></script>
+
+  </html>

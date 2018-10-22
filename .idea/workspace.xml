@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65fb9e7c-ab6e-4a88-a363-433d93fe8412" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/.idea/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Oferta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Reserva.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/consumer-producer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/producer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/utils.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1846379309">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="py" value="4432" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="4432" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-2015225281">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="htm" value="1" />
+          <entry key="html" value="6" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="8" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="7" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="8" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="109" />
+          <entry key="html" value="1127" />
+          <entry key="js" value="287" />
+          <entry key="py" value="160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="109" />
+          <entry key="HTML" value="1127" />
+          <entry key="JavaScript" value="287" />
+          <entry key="Python" value="160" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="694047760">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Workspace/Nawé/Backend/app/main/app.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Workspace/Nawé/Backend/app/main/templates/mapa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1359" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>secre</find>
+      <find>&lt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Demandante.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/.idea/consumer-producer.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/producer.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/notificacion.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/consumer-producer.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/DemandanteHilo.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Consumidor-productor.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Oferta.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/oferenteHilo.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Reserva.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/users.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/utils.py" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/demo.css" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/prueba.html" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/main.js" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/login.css" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/inicio.html" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/script.js" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/mapa.css" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/mapa.js" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/index.html" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/educacion.js" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/educacion.css" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/prueba.html" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/style.css" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/mapa.html" />
+        <option value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="230" />
+    <option name="width" value="758" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Workspace" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Workspace" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Nidoo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Workspace" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Nidoo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Workspace" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Nidoo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SIS2503-201820-S3-PIOSOFT" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Workspace" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Nidoo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="Nawé" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="Nawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="Nawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="Nawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebNawé" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebNawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="Nawé" type="462c0819:PsiDirectoryNode" />
+              <item name="Backend" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\static" />
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\templates\fuentes" />
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\templates" />
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\static" />
+      <recent name="C:\Users\federico\Desktop\Escritorio\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main\templates\naweWeb" />
+      <recent name="C:\Users\federico\Desktop\SIS2503-201820-S3-PIOSOFT\Workspace\Nidoo\Backend\app\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SIS2503-201820-S3-PIOSOFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workspace/Nawé/Backend/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workspace/Nawé/Backend/app/main/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SIS2503-201820-S3-PIOSOFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="consumer-producer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SIS2503-201820-S3-PIOSOFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/consumer-producer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="consumerProducer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SIS2503-201820-S3-PIOSOFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/consumerProducer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="producer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SIS2503-201820-S3-PIOSOFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/producer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.producer" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.consumerProducer" />
+      <item itemvalue="Python.consumer-producer (1)" />
+      <item itemvalue="Python.app (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.consumer-producer (1)" />
+        <item itemvalue="Python.producer" />
+        <item itemvalue="Python.consumerProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65fb9e7c-ab6e-4a88-a363-433d93fe8412" name="Default Changelist" comment="" />
+      <created>1538094583000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538094583000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16592261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.29692307" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32886904" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49925596" weight="0.22307692" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03188406" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32886904" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50074404" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49925596" visible="true" weight="0.3267148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/flask/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Vehiculo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="645" column="8" selection-start-line="645" selection-start-column="8" selection-end-line="645" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Oferente.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Demandante.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pymongo/results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1924239883/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="5280" column="8" selection-start-line="5280" selection-start-column="8" selection-end-line="5280" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/flask/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/bson/objectid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/werkzeug/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15572">
+          <caret line="922" selection-start-line="922" selection-end-line="922" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/notificacion.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Oferta.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/Reserva.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/users.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/consumer-producer.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/oferenteHilo.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/naweWeb/index.html" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/naweWeb/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/fuentes/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/fuentes/demo.htm" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/rosado.jpg" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/demo.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/DemandanteHilo.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/producer.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/login.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/mapa.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/main.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/educacionStyle.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/educacion.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/educacion.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/mapa.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/script.js" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/static/style.css" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/inicio.html" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/prueba.html" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/templates/mapa.html" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/app.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nidoo/Backend/app/main/utils.py" />
+    <entry file="file://$PROJECT_DIR$/Workspace/Nawé/Backend/app/main/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workspace/Nawé/Backend/app/main/templates/mapa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1359" />
+      </provider>
+    </entry>
+  </component>
+</project>
